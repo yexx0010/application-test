@@ -87,8 +87,7 @@ table#t01 tr>td:nth-child(5){background-color:white;}
 			<th>Click to show client information</th>
 		</tr>
 	
-</body>
-</html>
+
 
 <?php
 
@@ -127,3 +126,6 @@ echo "</table>";
  
 	}
 </script>
+	
+</body>
+</html>
